@@ -1,4 +1,4 @@
-# 💻 Full Stack Developer Extraordinaire  
+# 💻 Andres Bravo - Full Stack Developer
 
 Hey there! 👋 I'm **Andres Bravo** a Full Stack Developer with **6+ years of experience** taming the wild beasts of JavaScript, TypeScript, React, React Native, and yes, even the mighty PHP with Laravel. 🚀  
 
